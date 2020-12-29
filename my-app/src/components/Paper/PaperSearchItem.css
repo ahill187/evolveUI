@@ -1,0 +1,30 @@
+.paper-search-item {
+    width: 100%;
+}
+
+.card-link {
+    color: var(--primary) !important;
+}
+
+:root {
+  --code-grey: 	#e4e4e4; /* grey */
+  --border-grey: rgba(0, 0, 0, 0.125); /* grey for borders */
+  --math-grey: #383838; /* dark grey */
+  --yellow: #ffe83d; /* yellow */
+  --yellow-hover: #ebc100;
+  --baby-blue: #b6eaf3;
+  --forest-green: #176344;
+  --dark-blue: #1a287c;
+  --indigo: #4A12AD;
+  --primary: #34b6ed !important;
+  --primary-clicked: #2690bd;
+
+}
+
+.paper-search-item a {
+    color: var(--primary) !important;
+}
+
+.paper-search-item a:hover {
+    color: var(--primary-clicked) !important;
+}
